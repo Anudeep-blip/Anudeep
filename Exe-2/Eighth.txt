@@ -29,7 +29,7 @@ class BankC extends Bank
 		return 2000;
 	}
 }
-public class Boy {
+public class Bank {
 	
 	public static void main(String args[])
 	{
